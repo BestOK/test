@@ -6,7 +6,7 @@
 
 #define MAX_LOADSTRING 100
 
-//modified by BestOK.
+//modified by BestOK.  test7 again.
 // 全局变量:
 HINSTANCE hInst;								// 当前实例
 TCHAR szTitle[MAX_LOADSTRING];					// 标题栏文本
